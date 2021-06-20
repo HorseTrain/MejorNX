@@ -1,0 +1,143 @@
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.deps.json
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.json
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csprojAssemblyReference.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CopyComplete
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.genruntimeconfig.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Graphics.GLR.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Graphics.GLR.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.deps.json
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.json
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.dev.json
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Graphics.GLR.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Graphics.GLR.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csprojAssemblyReference.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CopyComplete
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.genruntimeconfig.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\KeystoneNET.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX\bin\Debug\netcoreapp2.1\KeystoneNET.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.deps.json
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.json
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.dev.json
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Graphics.GLR.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.dll
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Graphics.GLR.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.pdb
+E:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.pdb
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csprojAssemblyReference.cache
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfoInputs.cache
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfo.cs
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CoreCompileInputs.cache
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CopyComplete
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.dll
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.pdb
+E:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.genruntimeconfig.cache
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.deps.json
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.json
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.dev.json
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\Ryujinx.Audio.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\Ryujinx.Audio.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.pdb
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csprojAssemblyReference.cache
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfoInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfo.cs
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CoreCompileInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CopyComplete
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.dll
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.pdb
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.genruntimeconfig.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.deps.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.runtimeconfig.dev.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Core.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\ChocolArm64.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Cpu.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.HLE.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\Ryujinx.Audio.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\UnicornNET.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csprojAssemblyReference.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.csproj.CopyComplete
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp2.1\MejorNX.genruntimeconfig.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\Keystone.Net.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp2.1\Keystone.Net.pdb

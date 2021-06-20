@@ -1,0 +1,76 @@
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.exe
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.deps.json
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.runtimeconfig.json
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.runtimeconfig.dev.json
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\OpenTK.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Runtime.Intrinsics.Experimental.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Runtime.Intrinsics.Experimental.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\ChocolArm64.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Common.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Core.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Cpu.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.HLE.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Maxwell.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Ryujinx.Audio.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\UnicornNET.dll
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Core.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\ChocolArm64.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Common.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Cpu.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.HLE.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Maxwell.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Ryujinx.Audio.pdb
+D:\Emulator Dev\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\UnicornNET.pdb
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.csprojAssemblyReference.cache
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.AssemblyInfoInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.AssemblyInfo.cs
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.csproj.CoreCompileInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.csproj.CopyComplete
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.dll
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.pdb
+D:\Emulator Dev\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.genruntimeconfig.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.exe
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.deps.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.runtimeconfig.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.runtimeconfig.dev.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\OpenTK.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\GalaxicARM.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Keystone.Net.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Core.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Cpu.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.HLE.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\UnicornNET.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Keystone.Net.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Core.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\GalaxicARM.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Common.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Cpu.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.HLE.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\MejorNX.Maxwell.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\Ryujinx.Audio.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\bin\Debug\netcoreapp3.0\UnicornNET.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.csprojAssemblyReference.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.csproj.CopyComplete
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX\obj\Debug\netcoreapp3.0\MejorNX.genruntimeconfig.cache

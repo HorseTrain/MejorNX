@@ -1,0 +1,159 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MejorNX/1.0.0": {
+        "dependencies": {
+          "MejorNX.Core": "1.0.0"
+        },
+        "runtime": {
+          "MejorNX.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "System.Runtime.Intrinsics.Experimental/4.5.0-rc1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0"
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Runtime.Intrinsics.Experimental.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26426.4"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Runtime.Intrinsics.Experimental.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26426.4"
+          }
+        }
+      },
+      "ChocolArm64/1.0.0": {
+        "dependencies": {
+          "System.Runtime.Intrinsics.Experimental": "4.5.0-rc1"
+        },
+        "runtime": {
+          "ChocolArm64.dll": {}
+        }
+      },
+      "MejorNX.Common/1.0.0": {
+        "runtime": {
+          "MejorNX.Common.dll": {}
+        }
+      },
+      "MejorNX.Core/1.0.0": {
+        "dependencies": {
+          "MejorNX.Common": "1.0.0",
+          "MejorNX.Cpu": "1.0.0",
+          "MejorNX.HLE": "1.0.0"
+        },
+        "runtime": {
+          "MejorNX.Core.dll": {}
+        }
+      },
+      "MejorNX.Cpu/1.0.0": {
+        "dependencies": {
+          "ChocolArm64": "1.0.0",
+          "MejorNX.Common": "1.0.0",
+          "PlaceHolder": "1.0.0",
+          "UnicornNET": "1.0.0"
+        },
+        "runtime": {
+          "MejorNX.Cpu.dll": {}
+        }
+      },
+      "MejorNX.Graphics.GLR/1.0.0": {
+        "runtime": {
+          "MejorNX.Graphics.GLR.dll": {}
+        }
+      },
+      "MejorNX.HLE/1.0.0": {
+        "dependencies": {
+          "MejorNX.Common": "1.0.0",
+          "MejorNX.Cpu": "1.0.0",
+          "MejorNX.Graphics.GLR": "1.0.0"
+        },
+        "runtime": {
+          "MejorNX.HLE.dll": {}
+        }
+      },
+      "PlaceHolder/1.0.0": {
+        "runtime": {
+          "PlaceHolder.dll": {}
+        }
+      },
+      "UnicornNET/1.0.0": {
+        "runtime": {
+          "UnicornNET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MejorNX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "System.Runtime.Intrinsics.Experimental/4.5.0-rc1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jIphCuAuc3fmjLJ0v28GBSjEoXfM/U1dE9vQfB1RrX053247MaXloyzvdKfbkikGLOQOssCKM0mf0U6/ztCFiA==",
+      "path": "system.runtime.intrinsics.experimental/4.5.0-rc1",
+      "hashPath": "system.runtime.intrinsics.experimental.4.5.0-rc1.nupkg.sha512"
+    },
+    "ChocolArm64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.Cpu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.Graphics.GLR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.HLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlaceHolder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnicornNET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
