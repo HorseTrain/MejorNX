@@ -1,0 +1,855 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Core\\MejorNX.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Raymond\\source\\repos\\ArmcNET\\ArmcNET\\ArmcNET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raymond\\source\\repos\\ArmcNET\\ArmcNET\\ArmcNET.csproj",
+        "projectName": "ArmcNET",
+        "projectPath": "C:\\Users\\Raymond\\source\\repos\\ArmcNET\\ArmcNET\\ArmcNET.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymond\\source\\repos\\ArmcNET\\ArmcNET\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Raymond\\source\\repos\\ARMyth\\ARMyth\\ARMyth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raymond\\source\\repos\\ARMyth\\ARMyth\\ARMyth.csproj",
+        "projectName": "ARMyth",
+        "projectPath": "C:\\Users\\Raymond\\source\\repos\\ARMyth\\ARMyth\\ARMyth.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymond\\source\\repos\\ARMyth\\ARMyth\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj",
+        "projectName": "Gee.External.Capstone",
+        "projectPath": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\GalacticARM\\GalacticARM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\GalacticARM\\GalacticARM.csproj",
+        "projectName": "GalacticARM",
+        "projectPath": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\GalacticARM\\GalacticARM.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\GalacticARM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj": {
+                "projectPath": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Iced": {
+              "target": "Package",
+              "version": "[1.11.3, )"
+            },
+            "SharpDisasm": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            },
+            "UltimateOrb.Int128": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj",
+        "projectName": "MejorNX.Common",
+        "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Core\\MejorNX.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Core\\MejorNX.Core.csproj",
+        "projectName": "MejorNX.Core",
+        "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Core\\MejorNX.Core.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj"
+              },
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\MejorNX.Cpu.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\MejorNX.Cpu.csproj"
+              },
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.HLE\\MejorNX.HLE.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.HLE\\MejorNX.HLE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\MejorNX.Cpu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\MejorNX.Cpu.csproj",
+        "projectName": "MejorNX.Cpu",
+        "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\MejorNX.Cpu.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Raymond\\source\\repos\\ArmcNET\\ArmcNET\\ArmcNET.csproj": {
+                "projectPath": "C:\\Users\\Raymond\\source\\repos\\ArmcNET\\ArmcNET\\ArmcNET.csproj"
+              },
+              "C:\\Users\\Raymond\\source\\repos\\ARMyth\\ARMyth\\ARMyth.csproj": {
+                "projectPath": "C:\\Users\\Raymond\\source\\repos\\ARMyth\\ARMyth\\ARMyth.csproj"
+              },
+              "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\GalacticARM\\GalacticARM.csproj": {
+                "projectPath": "C:\\Users\\Raymond\\source\\repos\\GalacticARM\\GalacticARM\\GalacticARM.csproj"
+              },
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj"
+              },
+              "D:\\Programming\\Projects\\Emulator\\UnicornNET\\UnicornNET.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\UnicornNET\\UnicornNET.csproj"
+              },
+              "E:\\Projects\\Smash\\GalacticARM\\GalacticARM\\GalacticARM.csproj": {
+                "projectPath": "E:\\Projects\\Smash\\GalacticARM\\GalacticARM\\GalacticARM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.HLE\\MejorNX.HLE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.HLE\\MejorNX.HLE.csproj",
+        "projectName": "MejorNX.HLE",
+        "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.HLE\\MejorNX.HLE.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.HLE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Common\\MejorNX.Common.csproj"
+              },
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\MejorNX.Cpu.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Cpu\\MejorNX.Cpu.csproj"
+              },
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Maxwell\\MejorNX.Maxwell.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Maxwell\\MejorNX.Maxwell.csproj"
+              },
+              "D:\\Programming\\Projects\\Emulator\\MejorNX\\Ryujinx.Audio\\Ryujinx.Audio.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\Ryujinx.Audio\\Ryujinx.Audio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Maxwell\\MejorNX.Maxwell.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Maxwell\\MejorNX.Maxwell.csproj",
+        "projectName": "MejorNX.Maxwell",
+        "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Maxwell\\MejorNX.Maxwell.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Maxwell\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenTK.NetStandard": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Projects\\Emulator\\MejorNX\\Ryujinx.Audio\\Ryujinx.Audio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\Emulator\\MejorNX\\Ryujinx.Audio\\Ryujinx.Audio.csproj",
+        "projectName": "Ryujinx.Audio",
+        "projectPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\Ryujinx.Audio\\Ryujinx.Audio.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\Ryujinx.Audio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenTK.NetStandard": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Programming\\Projects\\Emulator\\UnicornNET\\UnicornNET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Programming\\Projects\\Emulator\\UnicornNET\\UnicornNET.csproj",
+        "projectName": "UnicornNET",
+        "projectPath": "D:\\Programming\\Projects\\Emulator\\UnicornNET\\UnicornNET.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\Projects\\Emulator\\UnicornNET\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Smash\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Smash\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj",
+        "projectName": "Gee.External.Capstone",
+        "projectPath": "E:\\Projects\\Smash\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Smash\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Smash\\GalacticARM\\GalacticARM\\GalacticARM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Smash\\GalacticARM\\GalacticARM\\GalacticARM.csproj",
+        "projectName": "GalacticARM",
+        "projectPath": "E:\\Projects\\Smash\\GalacticARM\\GalacticARM\\GalacticARM.csproj",
+        "packagesPath": "C:\\Users\\Raymond\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Smash\\GalacticARM\\GalacticARM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\VS\\sdk\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Raymond\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Programming\\Projects\\Emulator\\UnicornNET\\UnicornNET.csproj": {
+                "projectPath": "D:\\Programming\\Projects\\Emulator\\UnicornNET\\UnicornNET.csproj"
+              },
+              "E:\\Projects\\Smash\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj": {
+                "projectPath": "E:\\Projects\\Smash\\GalacticARM\\Capstone.NET-master\\Gee.External.Capstone\\Gee.External.Capstone.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Iced": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "SharpDisasm": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            },
+            "UltimateOrb.Int128": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\UnicornNET\UnicornNET.csproj" />
+    <ProjectReference Include="..\GalacticARM\GalacticARM.csproj" />
+    <ProjectReference Include="..\MejorNX.Common\MejorNX.Common.csproj" />
+    <ProjectReference Include="C:\Users\Raymond\source\repos\ArmcNET\ArmcNET\ArmcNET.csproj" />
+    <ProjectReference Include="C:\Users\Raymond\source\repos\ARMyth\ARMyth\ARMyth.csproj" />
+    <ProjectReference Include="C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\GalacticARM.csproj" />
+  </ItemGroup>
+
+</Project>

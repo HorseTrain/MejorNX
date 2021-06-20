@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ce0jg3Y32nfzZHTvK/4S54Kd5fX0AR+w4hY5baxd4CFjHWFL+LH0sVVyH9noo8ucTxWC9df/I84MIJ1CD1/Pnw==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\MejorNX.Maxwell\\MejorNX.Maxwell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\opentk.netstandard\\1.0.4\\opentk.netstandard.1.0.4.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgcPgZ2fbZYafUtI9vxi4hAy8uMIvpcbzs/i4rofK0vwNnpLTdY03n5iXiANsagYAh7vmyp96hjrklXTDDp1jQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Projects\\Emulator\\MejorNX\\Ryujinx.Audio\\Ryujinx.Audio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\opentk.netstandard\\1.0.4\\opentk.netstandard.1.0.4.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

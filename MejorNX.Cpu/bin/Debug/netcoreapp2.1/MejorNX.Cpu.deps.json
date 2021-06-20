@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MejorNX.Cpu/1.0.0": {
+        "dependencies": {
+          "MejorNX.Common": "1.0.0",
+          "UnicornNET": "1.0.0"
+        },
+        "runtime": {
+          "MejorNX.Cpu.dll": {}
+        }
+      },
+      "MejorNX.Common/1.0.0": {
+        "runtime": {
+          "MejorNX.Common.dll": {}
+        }
+      },
+      "UnicornNET/1.0.0": {
+        "runtime": {
+          "UnicornNET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MejorNX.Cpu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnicornNET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

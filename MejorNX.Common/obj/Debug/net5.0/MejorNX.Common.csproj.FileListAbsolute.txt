@@ -1,0 +1,35 @@
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.deps.json
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\bin\Debug\net5.0\ref\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\net5.0\ref\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.deps.json
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\bin\Debug\net5.0\ref\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.csprojAssemblyReference.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\ref\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.deps.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\bin\Debug\net5.0\ref\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\bin\Debug\net5.0\MejorNX.Common.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.csprojAssemblyReference.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\ref\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\net5.0\MejorNX.Common.pdb

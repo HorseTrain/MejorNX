@@ -1,0 +1,9 @@
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\bin\Debug\netstandard1.1\Keystone.Net.deps.json
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\bin\Debug\netstandard1.1\Keystone.Net.dll
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\bin\Debug\netstandard1.1\Keystone.Net.pdb
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\obj\Debug\netstandard1.1\Keystone.Net.csprojAssemblyReference.cache
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\obj\Debug\netstandard1.1\Keystone.Net.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\obj\Debug\netstandard1.1\Keystone.Net.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\obj\Debug\netstandard1.1\Keystone.Net.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\obj\Debug\netstandard1.1\Keystone.Net.dll
+D:\Programming\Projects\Emulator\MejorNX\Keystone.Net\obj\Debug\netstandard1.1\Keystone.Net.pdb

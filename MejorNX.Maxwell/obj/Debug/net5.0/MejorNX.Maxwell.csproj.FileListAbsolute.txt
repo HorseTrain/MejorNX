@@ -1,0 +1,11 @@
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\bin\Debug\net5.0\MejorNX.Maxwell.deps.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\bin\Debug\net5.0\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\bin\Debug\net5.0\ref\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\bin\Debug\net5.0\MejorNX.Maxwell.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\net5.0\MejorNX.Maxwell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\net5.0\MejorNX.Maxwell.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\net5.0\MejorNX.Maxwell.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\net5.0\MejorNX.Maxwell.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\net5.0\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\net5.0\ref\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\net5.0\MejorNX.Maxwell.pdb

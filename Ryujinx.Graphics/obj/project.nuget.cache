@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "xb8TsobA/BvnYXvk8Lf5Mw/frReEs/86FfD0XQNJQylVGqwPVULYRKmKsptmJFfqCqAzxzCdKDP0JisVMU+ZIw==",
+  "success": true,
+  "projectFilePath": "D:\\Emulator Dev\\MejorNX\\Ryujinx.Graphics\\Ryujinx.Graphics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\opentk.netstandard\\1.0.4\\opentk.netstandard.1.0.4.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.app\\2.1.0\\runtime.linux-x64.microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.dotnetapphost\\2.1.0\\runtime.linux-x64.microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.dotnethostpolicy\\2.1.0\\runtime.linux-x64.microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.linux-x64.microsoft.netcore.dotnethostresolver\\2.1.0\\runtime.linux-x64.microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.osx-x64.microsoft.netcore.app\\2.1.0\\runtime.osx-x64.microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.osx-x64.microsoft.netcore.dotnetapphost\\2.1.0\\runtime.osx-x64.microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.osx-x64.microsoft.netcore.dotnethostpolicy\\2.1.0\\runtime.osx-x64.microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.osx-x64.microsoft.netcore.dotnethostresolver\\2.1.0\\runtime.osx-x64.microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.app\\2.1.0\\runtime.win-x64.microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnetapphost\\2.1.0\\runtime.win-x64.microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnethostpolicy\\2.1.0\\runtime.win-x64.microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnethostresolver\\2.1.0\\runtime.win-x64.microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Raymond\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

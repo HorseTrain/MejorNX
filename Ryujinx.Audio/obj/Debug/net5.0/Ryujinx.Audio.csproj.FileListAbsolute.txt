@@ -1,0 +1,12 @@
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\bin\Debug\net5.0\Ryujinx.Audio.deps.json
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\bin\Debug\net5.0\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\bin\Debug\net5.0\ref\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\bin\Debug\net5.0\Ryujinx.Audio.pdb
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\Ryujinx.Audio.csprojAssemblyReference.cache
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\Ryujinx.Audio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\Ryujinx.Audio.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\Ryujinx.Audio.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\Ryujinx.Audio.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\ref\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\net5.0\Ryujinx.Audio.pdb

@@ -1,0 +1,9 @@
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\bin\Debug\netcoreapp2.1\Ryujinx.Graphics.deps.json
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\bin\Debug\netcoreapp2.1\Ryujinx.Graphics.dll
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\bin\Debug\netcoreapp2.1\Ryujinx.Graphics.pdb
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\obj\Debug\netcoreapp2.1\Ryujinx.Graphics.csprojAssemblyReference.cache
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\obj\Debug\netcoreapp2.1\Ryujinx.Graphics.AssemblyInfoInputs.cache
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\obj\Debug\netcoreapp2.1\Ryujinx.Graphics.AssemblyInfo.cs
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\obj\Debug\netcoreapp2.1\Ryujinx.Graphics.csproj.CoreCompileInputs.cache
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\obj\Debug\netcoreapp2.1\Ryujinx.Graphics.dll
+D:\Emulator Dev\Ryujinx SMO\Ryujinx.Graphics\obj\Debug\netcoreapp2.1\Ryujinx.Graphics.pdb

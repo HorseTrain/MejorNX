@@ -1,0 +1,162 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MejorNX.HLE/1.0.0": {
+        "dependencies": {
+          "MejorNX.Common": "1.0.0",
+          "MejorNX.Cpu": "1.0.0",
+          "MejorNX.Maxwell": "1.0.0",
+          "Ryujinx.Audio": "1.0.0"
+        },
+        "runtime": {
+          "MejorNX.HLE.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "OpenTK.NetStandard/1.0.4": {
+        "dependencies": {
+          "System.Drawing.Common": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OpenTK.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "MejorNX.Common/1.0.0": {
+        "runtime": {
+          "MejorNX.Common.dll": {}
+        }
+      },
+      "MejorNX.Cpu/1.0.0": {
+        "dependencies": {
+          "MejorNX.Common": "1.0.0",
+          "UnicornNET": "1.0.0"
+        },
+        "runtime": {
+          "MejorNX.Cpu.dll": {}
+        }
+      },
+      "MejorNX.Maxwell/1.0.0": {
+        "dependencies": {
+          "OpenTK.NetStandard": "1.0.4"
+        },
+        "runtime": {
+          "MejorNX.Maxwell.dll": {}
+        }
+      },
+      "Ryujinx.Audio/1.0.0": {
+        "dependencies": {
+          "OpenTK.NetStandard": "1.0.4"
+        },
+        "runtime": {
+          "Ryujinx.Audio.dll": {}
+        }
+      },
+      "UnicornNET/1.0.0": {
+        "runtime": {
+          "UnicornNET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MejorNX.HLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LuI1oG+24TUj1ZRQQjM5Ew73BKnZE5NZ/7eAdh1o8ST5dPhUnJvIkiIn2re3MwnkRy6ELRnvEbBxHP8uALKhJw==",
+      "path": "microsoft.win32.systemevents/4.5.0",
+      "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
+    },
+    "OpenTK.NetStandard/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y76yxGGMXsbqHTZTJphhrWwt4VEo3vFb5SkZkK4WWA8TY9EzQetQjGsTyX0ufflyUPRSQb/vV3Y1l4CkITLGrw==",
+      "path": "opentk.netstandard/1.0.4",
+      "hashPath": "opentk.netstandard.1.0.4.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AiJFxxVPdeITstiRS5aAu8+8Dpf5NawTMoapZ53Gfirml24p7HIfhjmCRxdXnmmf3IUA3AX3CcW7G73CjWxW/Q==",
+      "path": "system.drawing.common/4.5.0",
+      "hashPath": "system.drawing.common.4.5.0.nupkg.sha512"
+    },
+    "MejorNX.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.Cpu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MejorNX.Maxwell/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ryujinx.Audio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnicornNET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\GalacticARM.deps.json
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\GalacticARM.dll
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\ref\GalacticARM.dll
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\GalacticARM.pdb
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\UnicornNET.dll
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\UnicornNET.pdb
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.csprojAssemblyReference.cache
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.AssemblyInfoInputs.cache
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.AssemblyInfo.cs
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.csproj.CopyComplete
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.dll
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\ref\GalacticARM.dll
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\obj\Release\net5.0\GalacticARM.pdb
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\Gee.External.Capstone.dll
+C:\Users\Raymond\source\repos\GalacticARM\GalacticARM\bin\Release\net5.0\Gee.External.Capstone.pdb

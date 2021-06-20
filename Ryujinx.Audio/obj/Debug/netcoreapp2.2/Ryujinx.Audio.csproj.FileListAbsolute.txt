@@ -1,0 +1,8 @@
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\bin\Debug\netcoreapp2.2\Ryujinx.Audio.deps.json
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\bin\Debug\netcoreapp2.2\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\bin\Debug\netcoreapp2.2\Ryujinx.Audio.pdb
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\netcoreapp2.2\Ryujinx.Audio.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\netcoreapp2.2\Ryujinx.Audio.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\netcoreapp2.2\Ryujinx.Audio.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\netcoreapp2.2\Ryujinx.Audio.dll
+D:\Programming\Projects\Emulator\MejorNX\Ryujinx.Audio\obj\Debug\netcoreapp2.2\Ryujinx.Audio.pdb

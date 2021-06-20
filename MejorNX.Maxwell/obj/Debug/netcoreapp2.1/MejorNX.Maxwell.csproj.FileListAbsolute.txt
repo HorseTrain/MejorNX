@@ -1,0 +1,18 @@
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.deps.json
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.dll
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.pdb
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.AssemblyInfoInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.AssemblyInfo.cs
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.csproj.CoreCompileInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.dll
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.pdb
+D:\Emulator Dev\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.csprojAssemblyReference.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.deps.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\bin\Debug\netcoreapp2.1\MejorNX.Maxwell.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Maxwell\obj\Debug\netcoreapp2.1\MejorNX.Maxwell.csprojAssemblyReference.cache

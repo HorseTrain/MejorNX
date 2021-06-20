@@ -1,0 +1,45 @@
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.deps.json
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csprojAssemblyReference.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.deps.json
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csprojAssemblyReference.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfoInputs.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfo.cs
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csproj.CoreCompileInputs.cache
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.dll
+C:\Users\Raymond\Desktop\MejorNX - Backup\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.pdb
+E:\Emulator Dev\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.deps.json
+E:\Emulator Dev\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+E:\Emulator Dev\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+E:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csprojAssemblyReference.cache
+E:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfoInputs.cache
+E:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfo.cs
+E:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csproj.CoreCompileInputs.cache
+E:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.dll
+E:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.pdb
+D:\Emulator Dev\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.deps.json
+D:\Emulator Dev\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+D:\Emulator Dev\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+D:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csprojAssemblyReference.cache
+D:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfoInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfo.cs
+D:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csproj.CoreCompileInputs.cache
+D:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.dll
+D:\Emulator Dev\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.deps.json
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\bin\Debug\netcoreapp2.1\MejorNX.Common.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfoInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.AssemblyInfo.cs
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.dll
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.pdb
+D:\Programming\Projects\Emulator\MejorNX\MejorNX.Common\obj\Debug\netcoreapp2.1\MejorNX.Common.csprojAssemblyReference.cache

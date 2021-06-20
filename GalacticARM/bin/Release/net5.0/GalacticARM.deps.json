@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GalacticARM/1.0.0": {
+        "dependencies": {
+          "Gee.External.Capstone": "1.0.0",
+          "Iced": "1.11.0",
+          "SharpDisasm": "1.1.11",
+          "UltimateOrb.Core": "1.4.0.5",
+          "UnicornNET": "1.0.0"
+        },
+        "runtime": {
+          "GalacticARM.dll": {}
+        }
+      },
+      "Iced/1.11.0": {
+        "runtime": {
+          "lib/netstandard2.1/Iced.dll": {
+            "assemblyVersion": "1.11.0.0",
+            "fileVersion": "1.11.0.0"
+          }
+        }
+      },
+      "SharpDisasm/1.1.11": {
+        "runtime": {
+          "lib/netstandard2.0/SharpDisasm.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "UltimateOrb.Core/1.4.0.5": {
+        "runtime": {
+          "lib/netstandard2.0/UltimateOrb.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Gee.External.Capstone/1.0.0": {
+        "runtime": {
+          "Gee.External.Capstone.dll": {}
+        }
+      },
+      "UnicornNET/1.0.0": {
+        "runtime": {
+          "UnicornNET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GalacticARM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Iced/1.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E7Ogk5josivjz/s2fxbms4zyRnXHXPiAfZAzlF7xJ1PvcQoAviIIr1Nm7uO9U+PBgQ7CCIwT5LR+yhHu3dUXTw==",
+      "path": "iced/1.11.0",
+      "hashPath": "iced.1.11.0.nupkg.sha512"
+    },
+    "SharpDisasm/1.1.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3y+5A2RZHlHHj3d8SssTKvAr3624xXu3RoWjqkCQ6TE8frYbyj8kxJxjqXh6noLX2mHRbAoPpd1O0Duzv2u+qA==",
+      "path": "sharpdisasm/1.1.11",
+      "hashPath": "sharpdisasm.1.1.11.nupkg.sha512"
+    },
+    "UltimateOrb.Core/1.4.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sC7YuCCX4Fhl19EXIA59ClG+KbXOBdFcp5htjIfGG0w13T9kp8cPSfkQkgf1POMprdDKQWcJ55XCBOa735XhSQ==",
+      "path": "ultimateorb.core/1.4.0.5",
+      "hashPath": "ultimateorb.core.1.4.0.5.nupkg.sha512"
+    },
+    "Gee.External.Capstone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnicornNET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
